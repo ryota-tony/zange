@@ -17,8 +17,10 @@
 - yarn add redux react-redux @material-ui/core @material-ui/icons @material-ui/styles firebase styled-components
 
 # 開発環境での検証方法
-```cd zange
-yarn start```
+```
+cd zange
+yarn start
+```
 
 ----
 
