@@ -8,11 +8,15 @@
 - リモートリポジトリではmasterブランチに直接マージする
 
 # Gitの便利なエイリアス達
-
 - git co ｜git checkout 
 - git br ｜git branch
 - git acm '' ｜git add. & git commit -m ''
 
+# 環境構築
+- create-react-app
+- yarn add redux react-redux @material-ui/core @material-ui/icons @material-ui/styles firebase styled-components
+
+----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
