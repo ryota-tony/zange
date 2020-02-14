@@ -16,6 +16,10 @@
 - create-react-app
 - yarn add redux react-redux @material-ui/core @material-ui/icons @material-ui/styles firebase styled-components
 
+# 開発環境での検証方法
+```cd zange
+yarn start```
+
 ----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
